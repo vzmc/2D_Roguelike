@@ -5,6 +5,7 @@ public class GameManager : MonoBehaviour
     public static GameManager instance = null;
 
     public int playerFoodPoints = 100;
+
     [HideInInspector]
     public bool playerTurn = true;
 
