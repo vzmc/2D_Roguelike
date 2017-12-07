@@ -125,6 +125,7 @@ MonoBehaviour:
   pointsPerFood: 10
   pointsPerSoda: 20
   restartLevelDelay: 1
+  foodText: {fileID: 0}
 --- !u!212 &212816568377069118
 SpriteRenderer:
   m_ObjectHideFlags: 1
